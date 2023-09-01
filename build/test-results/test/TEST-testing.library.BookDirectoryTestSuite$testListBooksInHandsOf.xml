@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test BookLibrary method listBooksInHandsOf" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-09-01T23:44:21" hostname="DESKTOP-DKN2RU7" time="0.755">
+  <properties/>
+  <testcase name="testBorrow0Books()" classname="testing.library.BookDirectoryTestSuite$testListBooksInHandsOf" time="0.739"/>
+  <testcase name="testBorrow1Books()" classname="testing.library.BookDirectoryTestSuite$testListBooksInHandsOf" time="0.009"/>
+  <testcase name="testBorrow5Books()" classname="testing.library.BookDirectoryTestSuite$testListBooksInHandsOf" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
